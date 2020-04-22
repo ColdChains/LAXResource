@@ -1,0 +1,2 @@
+# LAXResource
+Resource files
